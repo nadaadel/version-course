@@ -1,3 +1,4 @@
 git log
 git init 
 git log --stat
+edit in master
