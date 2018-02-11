@@ -1,4 +1,6 @@
 git log
 git init 
-git log --stat
-edit in v11
+git log --statt
+edit in v11 after conflict
+edit in master
+
