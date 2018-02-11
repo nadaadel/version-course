@@ -2,5 +2,5 @@ git log
 git init 
 git log --statt
 edit in v11 after conflict
-edit in master
-
+edit in master as final
+edit from b1 as final 
